@@ -1,6 +1,6 @@
 /* בננה בפיתה — Service Worker
    בכל שחרור: להעלות את VERSION. אחרת מי שכבר התקין נשאר על הגרסה הישנה. */
-const VERSION = "bp-2026-10-05-2";
+const VERSION = "bp-2026-10-16-1";
 const SHELL = [
   "./", "./index.html", "./manifest.webmanifest",
   "./styles/tokens.css", "./styles/app.css",
